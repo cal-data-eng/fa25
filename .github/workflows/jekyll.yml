@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Data 101 SP25 Website
+name: Deploy Data 101 FA25 Website
 
 on:
   # Runs on pushes targeting the default branch
