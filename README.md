@@ -1,5 +1,7 @@
 # DATA 101 Fall 2025 Website
 
+[![Deploy Data 101 FA25 Website](https://github.com/cal-data-eng/fa25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/cal-data-eng/fa25/actions/workflows/jekyll.yml)
+[![Run all page tests](https://github.com/cal-data-eng/fa25/actions/workflows/rspec.yml/badge.svg)](https://github.com/cal-data-eng/fa25/actions/workflows/rspec.yml)
 
 ## Installation
 
