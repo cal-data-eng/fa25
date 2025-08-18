@@ -5,7 +5,7 @@ description: Listing of course modules and topics.
 nav_order: 1
 ---
 
-# Data 101 (Info 258): Data Engineering 💾
+# Data 101 (CS 187): Data Engineering 💾
 
 {: .mb-2 }
 

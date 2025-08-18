@@ -6,7 +6,7 @@ description: >-
     Data Engineering
 markdown: kramdown
 
-lec_info: TuTh 9:30am, Lewis 100
+lec_info: TuTh 2-3.30, Lewis 100
 ---
 
 <!-- Common md links can go here -->
@@ -23,7 +23,7 @@ lec_info: TuTh 9:30am, Lewis 100
 
 ---
 
-## About Data 101 (Info 258)
+## About Data 101 (CS 187)
 
 This course will cover the principles and practices of managing data at scale, with a focus on use cases in data analysis and machine learning. We will cover the entire life cycle of data management and science, ranging from data preparation to exploration, visualization and analysis, to machine learning and collaboration.
 
@@ -34,9 +34,9 @@ The class will balance foundational concerns with exposure to practical language
 ### Prerequisites
 COMPSCI C100/DATA C100/STAT C100 or COMPSCI 189 or INFO 251 or DATA 144/INFO 254 or equivalent upper-division course in data science. COMPSCI 61B or INFO 206B or equivalent courses in programming. This class will not assume deep experience with databases or big data solutions.
 
-### Info 258 vs Data 101
+### CS 187 vs Data 101
 
-Data 101 is the same class as Info 258; there are some small differences with respect to the weightage for the optional final project (basically: this is optional for Data 101 but compulsory for Info 258) but everything else stays the same.
+CS 187 is the same class as Data 101.
 
 ### Enrollment
 See our [FAQ page]({{site.course_faq}}).
@@ -48,7 +48,7 @@ See our [FAQ page]({{site.course_faq}}).
 * **[{{site.course_email}}](mailto:{{site.course_email}})** is the course staff email and is for private logistical student support and DSP accommodations. This email monitored by both the instructor and a core set of staff to ensure fastest response. Please only contact the course instructor directly for matters that require strict privacy and/or their personal attention.
 
 ## Course Culture
-Students taking Data C101 (Info 258) come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
+Students taking Data 101 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
 
 
 ### Be Aware of Your Actions
@@ -88,15 +88,9 @@ If individuals are disrespectful to students, course staff, or others via course
 
 There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or online, or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
 
-**Lecture check-ins**: Every lecture (starting the 3rd lecture, **1/28**, onwards) will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
-  * Synchronous (during lecture) complete at least one question.
-  * Asynchronous (after lecture, within 1 week) complete all questions.
-
-  In both cases, navigate to [slido.com](https://www.slido.com/)
-
 ### Discussion
 
-This course also includes one weekly 50-minute discussion section held on Thursdays and Fridays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule][schedule]. Section attendance is not required, but you are strongly encouraged to practice the material on your own time. Discussion begins with the first week of classes.
+This course also includes one weekly 50-minute discussion section held on TBD. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule][schedule]. Section attendance is not required, but you are strongly encouraged to practice the material on your own time. Discussion begins with the first week of classes.
 
 ### Projects
 
@@ -109,14 +103,11 @@ There will be five (5) homework assignments released on Gradescope throughout th
 ### Exams
 
 This course has two exams:
-* Midterm exam: Wednesday, March 12th, 6:00pm - 8:00pm
-* Final exam: Wednesday, May 14th, 11:30am - 2:30pm
+* Midterm exam: Thursday, Oct 16, 7:00-9:00 pm
+* Final exam: Tuesday, Dec 16, 8:00-11 am
 
 **Exams are offered in-person only.** It is your responsibility to ensure that you are not enrolled in another class that conflicts with our midterm or final exam time. All details will be posted on Ed.
 
-### Final Project
-
-We will have an **optional** final course project this semester. This will be an open-ended exploration of data systems, and you will submit a written final report. Details to be released after the midterm.
 
 ### Office Hours
 
@@ -128,17 +119,13 @@ Office Hours are a great place to get help from course staff and to find study p
 Letter grades for the course will be based on your overall score in the class. The default scheme for Data 101 is without the optional final project:
 
 {: .table }
-| **Component** | **Weight<br/>(default)** | **Weight<br/>(Final Project)** | **Details** |
-| --------- |:---:|:---:|--- |
-| Lecture Check-Ins | 6% | 6% |  Drop 4 lowest scores. Skip Lecture 01 and 02. |
-| Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half others. see [Late Policy](#late-policy) |
-| Homework Assignments | 18% | 18% | (3.6% each) No drops; see [Late Policy](#late-policy) |
-| Midterm | 15% | 10% |     |
-| Final Exam | 25% | 20% | Final is cumulative. |
-| Final Project | -- | 10% | Optional |
+| **Component** | **Weight<br/>(default)** | **Details** |
+| --------- |:---:|--- |
+| Projects | 40% |  (9% each typically) No drops; Project 0 worth 4%. see [Late Policy](#late-policy) |
+| Homework Assignments | 20% |  (4% each) No drops; see [Late Policy](#late-policy) |
+| Midterm | 15% |      |
+| Final Exam | 25% | Final is cumulative. |
 
-If you choose to do the project, your final grade will be the maximum of the two grading schemes.
-For Info 258 students, the grading scheme will be the one involving the final project.
 
 <!--Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least x will result in a grade of at least C-; at least y will result in at least B-; at least z will result in at least A-." The thresholds x, y, and z will depend on this term’s performance.
 -->
