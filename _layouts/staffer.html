@@ -64,6 +64,10 @@
     images.forEach(img => {
       const hoverImage = img.getAttribute('data-hover');
       if (hoverImage) {
+        // Preload the hover image by creating a new Image object
+        const preloadedImage = new Image();
+        preloadedImage.src = hoverImage;
+
         const originalImage = img.getAttribute('src');
 
         img.addEventListener('mouseover', function() {
