@@ -15,7 +15,7 @@ nav_order: 1
 [Ed]({{site.course.edstem}}){:target="\_blank" .btn .btn-ed .mr-1 }
 <!-- [Lecture Recordings]({{site.course.videos}}){:target="\_blank" .btn .btn-bcourses .mr-1 } -->
 [Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
-<!-- [Additional Extensions]({{site.course.additional_extensions}}){:target="\_blank" .btn .btn-datahub .mr-1 } -->
+[Additional Extensions]({{site.course.additional_extensions}}){:target="\_blank" .btn .btn-datahub .mr-1 }
 [Jump to Current Week](https://data101.org/fa25/#week-1){: .btn .btn-currweek}
 
 <div class="role flex">
