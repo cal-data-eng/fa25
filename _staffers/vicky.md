@@ -1,5 +1,5 @@
 ---
-name: Vicky Fiske
+name: Vicky Huang
 role: Teaching Assistant
 email: vicky.huang@berkeley.edu
 photo: staff/vicky.jpg
