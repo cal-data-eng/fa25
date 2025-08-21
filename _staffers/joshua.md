@@ -1,5 +1,5 @@
 ---
-name: Joshua Chang
+name: Joshua Chuang
 role: Teaching Assistant
 email: jchuang77@berkeley.edu
 photo: staff/joshua.png
