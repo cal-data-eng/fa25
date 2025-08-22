@@ -189,6 +189,11 @@ h1 { font-weight: 500; }
   color: white;
 }
 
+.label-Content {
+  background-color: #823226;
+  color: white;
+}
+
 .label-Course
 {
   background-color: #9C3848;
@@ -212,6 +217,11 @@ h1 { font-weight: 500; }
 
 .label-Logistics {
   background-color: #156115;
+  color: white;
+}
+
+.label-Discussions {
+  background-color: #3a615a;
   color: white;
 }
 
@@ -460,11 +470,11 @@ th, td {
 }
 
 .btn-extensions {
-  @include btn-color($block-text-color !important, #523be7);
+  @include btn-color($block-text-color !important, #6550e9);
 }
 
 .btn-currweek {
-  @include btn-color($block-text-color !important, #FA8072);
+  @include btn-color($block-text-color !important, #3f379d);
 }
 
 .btn-officehours {

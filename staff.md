@@ -6,6 +6,10 @@ nav_order: 4
 ---
 
 # Staff
+Say HELLO to your Fall 2025 DATA 101 Staff! Hover over some of our icons for a fun surprise :0
+{: .no_toc .text-delta }
+
+Jump to: [Instructors](#instructors), [Head Teaching Assistants](#head-teaching-assistants), [Teaching Assistants](#teaching-assistants), [Tutors](#tutors)
 
 ## Instructors
 
@@ -22,7 +26,7 @@ nav_order: 4
 
 {% if num_head_teaching_assistants != 0 %}
 
-## Lead Teaching Assistants
+## Head Teaching Assistants
 
 <div class="role flex">
 {% for staffer in head_teaching_assistants %}
