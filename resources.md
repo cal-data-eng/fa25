@@ -20,7 +20,7 @@ The [Data 100 textbook](http://textbook.ds100.org/), the [CS 61B curriculum](htt
 
 ## Course Notes
 
-The Data 101 course notes (found on the [main page](/)) are a work in progress and are meant to be a resource for you to refer to as you complete assignments. However, they are not a perfect substitute for lectures, as they are a passive resource---meaning you may read something but not understand it the first time. Lectures will have participation and engagement activities to help you practice the material. Please attend!
+The Data 101 course notes (found on the [main page](/)) are a work in progress and are meant to be a resource for you to refer to as you complete assignments. However, they are not a perfect substitute for lectures, as they are a passive resource---meaning you may read something but not understand it the first time. Please attend lectures if you can---they are the best way to engage with the material!
 
 ## SQL
 

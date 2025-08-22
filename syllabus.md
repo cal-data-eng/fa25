@@ -86,11 +86,11 @@ If individuals are disrespectful to students, course staff, or others via course
 
 ### Lecture
 
-There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or online, or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
+There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
 
 ### Discussion
 
-This course also includes one weekly 50-minute discussion section held on TBD. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule][schedule]. Section attendance is not required, but you are strongly encouraged to practice the material on your own time. Discussion begins with the first week of classes.
+This course also includes one weekly 50-minute discussion section held on Thursday/Friday. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule][schedule]. Section attendance is not required, but you are strongly encouraged to practice the material on your own time. Discussion begins with the first week of classes.
 
 ### Projects
 
@@ -113,10 +113,10 @@ This course has two exams:
 
 Office Hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the [calendar]({{site.base_url}}/calendar) page. There are two categories of office hours:
 * **TA/Tutor office hours**, held weekly in **Warren 101B**. Attend to get help with homework assignments, projects, or any other content-related questions.
-* **Instructor office hours**, held weekly in **Soda 787** are for content-related questions, but also general course questions, data science advising, or perspectives on academia/industry. These are not intended for homework or project questions. Feel free to bring tea/coffee and/or a reusable mug.
+* **Instructor office hours**, held weekly in **Soda 787** are for content-related questions, but also general course questions, data science advising, perspectives on academia/industry, or anything else you may be curious about! These are not intended for homework or project questions. 
 
 ## Grading
-Letter grades for the course will be based on your overall score in the class. The default scheme for Data 101 is without the optional final project:
+Letter grades for the course will be based on your overall score in the class. Here is the grading scheme:
 
 {: .table }
 | **Component** | **Weight<br/>(default)** | **Details** |
@@ -137,7 +137,6 @@ Everyone has **9** slip days, which can be applied to late submissions of _proje
 * Each project or homework assignment can have a max of 3 slip days applied to it. These slip days will be automatically applied at the end of the semester to maximize your grade, based on the final grade shown in gradescope.
 * Slip days are rounded up to the next day. That is, 5 minutes late = 1 day late. We will use the submission time as displayed on Gradescope. You should track your own slip days.
 * If you have no remaining slip days, there is a 15% reduction to your total score for every day that the assignment is late. After 3 slip days (i.e., late days), you can no longer receive credit for the submission.
-* Lecture check-ins are not eligible for slip days.
 * _Please do not ask the staff to apply slip days to particular assignments, or track how many you have used._ If an assignment is open for submission it is _always_ in your interest to turn in your best effort.
 
 ### Additional Extensions
@@ -164,7 +163,7 @@ You are encouraged to discuss practice problems and lecture content with your fe
 1. Cite your sources:
 * **Study groups**: If you do discuss the assignments with others please include their names at the top of your notebook. Restated, you and your friends are encouraged to discuss course content and high-level approaches to problem-solving, but you are not allowed to share your code nor answers. You can work on a project alongside another person or group of people (e.g., study group), but it should not substantially resemble anyone else's.
 * **StackOverflow, etc.** You should cite these sources, even if it's using small snippets of code (e.g., googling "postgres string matching" may lead you to some sample code that you copy and paste. Include the link to these online sources.
-* **With extreme caution**: If you're just generating some amount of boilerplate code with GitHub Copilot / LLMs / etc., that's OK. However, you should not use such tools to generate non-trivial methods. AI methods often suffer from hallucinations, incompleteness, mistakes, and other idiosyncracies, and so there is a real danger to trusting them. There is always a need for human verification and validation, so in this class we emphasize your ability to do data engineering work without access to AI. **Any AI-generated code must be cited (with the prompt and log) and explicitly indicated as such.** Violation of this citation rule is a serious act of plagiarism. 
+* **With extreme caution**: If you're just generating some amount of boilerplate code with  LLMs / Cursor / etc., that's OK. However, you should not use such tools to generate non-trivial methods. AI methods often suffer from hallucinations, incompleteness, mistakes, and other idiosyncracies, and so there is a real danger to trusting them. There is always a need for human verification and validation, so in this class we emphasize your ability to do data engineering work without access to AI. **Any AI-generated code must be cited (with the prompt and log) and explicitly indicated as such.** Violation of this citation rule is a serious act of plagiarism. 
 
 **_Each assignment will ask you to list any collobrators, outside sources, or other help received. You are expected to fill this hout honestly._**
 
