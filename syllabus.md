@@ -169,7 +169,7 @@ You are encouraged to discuss practice problems and lecture content with your fe
 
 We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty){: target="\_blank"} on academic honesty, so be sure you are familiar with it.
 We will be running advanced plagiarism detection programs on all assignments.
-Posting solutions is also prohibited. If you find a solution online, please email a link to that solution tot he instructor.
+Posting solutions is also prohibited. If you find a solution online, please email a link to that solution to the instructor.
 
 We are tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. If you need help, just reach out and ask us. You are not alone.
 
