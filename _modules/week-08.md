@@ -8,9 +8,9 @@ Tue 10/14
 : {% lec 13 tba %}
   <!-- : [Course Notes](https://data101.org/notes/5-data_prep/structural.html)  -->
 
-Wed 10/15
-: **Midterm**{: .label .label-exam } TENTATIVE DATE 
-
 Thu 10/16
+: **Midterm**{: .label .label-exam } Midterm Exam (7-9pm) 
+
+Fri 10/17
 : **Lecture**{: .label} TENTATIVE No Lecture
 
