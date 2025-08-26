@@ -14,6 +14,5 @@ Wed 10/8
 Thu 10/9
 : {% lec 12 tba %}
   <!-- : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html)  -->
-
-Fri 10/10
 : {% disc 6 %} Window Functions, Data Granularity
+

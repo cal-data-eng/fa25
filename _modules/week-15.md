@@ -11,7 +11,5 @@ Wed 12/3
 : {% hw_due 5 %} Due, 5pm
 
 Thu 12/4
-: {% lec 26 tba %}
-
-Fri 12/5
 : {% disc 11 %} 
+: {% lec 26 tba %}

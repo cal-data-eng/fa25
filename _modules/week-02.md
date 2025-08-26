@@ -8,12 +8,11 @@ Tue 9/2
 : {% lec 2 sql %} (virtual)
   : [Course Notes](https://data101.org/notes/2-relational_algebra/primitives.html)
 
-Wed 9/3
-: {% proj_due 0 %} Due, 5pm
-
 Thu 9/4
 : {% lec 3 relational-model %} (virtual)
   : [Course Notes](https://data101.org/notes/1-SQL/CTEs.html)
+: {% disc 1 %} SQL Review
+  : [Code](http://data101.datahub.berkeley.edu/)
 
 Fri 9/5
 : {% hw_rel 1 %} Homework 1

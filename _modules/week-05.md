@@ -14,8 +14,8 @@ Wed 9/24
 Thu 9/25
 : {% lec 9 data-modeling-1 %}
   : [Course Notes](https://data101.org/notes/4-data_modeling/data_models.html) 
+: {% disc 4 %} Query Performance
 
 Fri 9/26
-: {% disc 4 %} Query Performance
 : {% proj_rel 2 %} [Query Performance](https://data101.datahub.berkeley.edu/)
   : Due Wed 10/8, 5pm

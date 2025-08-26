@@ -14,8 +14,8 @@ Wed 10/1
 Thu 10/2
 : {% lec 11 data-prep-2 %}
   : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html) 
+: {% disc 5 %} Data Models, Data Preparation
 
 Fri 10/3
-: {% disc 5 %} Data Models, Data Preparation
 : {% hw_rel 3 %} Homework 3
   : Due Wed 10/22, 5pm

@@ -14,8 +14,8 @@ Wed 9/17
 Thu 9/18
 : {% lec 7 optimizing-2 %}
   : [Course Notes](https://data101.org/notes/3-query_perf/query-planning.html)
+: {% disc 3 %} DML/DDL, Bits, Query Performance
 
 Fri 9/19
-: {% disc 3 %} DML/DDL, Bits, Query Performance
 : {% hw_rel 2 %} Homework 2
   : Due Wed 10/1, 5pm
