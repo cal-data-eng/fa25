@@ -9,7 +9,7 @@ Tue 11/4
 : {% lec 18 tba %}
 
 Wed 11/5
-: {% proj_due 3} Due 5pm
+: {% proj_due 3 %} Due 5pm
 
 
 Thu 11/6
@@ -18,3 +18,4 @@ Thu 11/6
 
 Fri 11/7
 : {% proj_rel 4 %} 
+  : Due Wed 11/19 5pm
