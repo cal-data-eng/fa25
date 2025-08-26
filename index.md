@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 🏠 Home
 description: Listing of course modules and topics.
 nav_order: 1
 ---
@@ -15,7 +15,8 @@ nav_order: 1
 [Ed]({{site.course.edstem}}){:target="\_blank" .btn .btn-ed .mr-1 }
 <!-- [Lecture Recordings]({{site.course.videos}}){:target="\_blank" .btn .btn-bcourses .mr-1 } -->
 [Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
-[Additional Extensions]({{site.course.additional_extensions}}){:target="\_blank" .btn .btn-datahub .mr-1 }
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1547305/external_tools/90481){:target="\_blank" .btn .btn-bcourses}
+[Additional Extensions]({{site.course.additional_extensions}}){:target="\_blank" .btn .btn-extensions .mr-1 }
 [Jump to Current Week](https://data101.org/fa25/#week-1){: .btn .btn-currweek}
 
 <div class="role flex">

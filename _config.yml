@@ -103,7 +103,7 @@ nav_external_links:
   # - title: Course FAQ
   #   url: https://data101.org/faqs/fa25
   #   hide_icon: true
-  - title: Course Notes
+  - title: 📖 Course Notes
     url: https://data101.org/notes
     hide_icon: true
 

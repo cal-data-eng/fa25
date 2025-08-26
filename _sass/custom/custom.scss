@@ -458,11 +458,11 @@ th, td {
 }
 
 .btn-bcourses {
-  @include btn-color($block-text-color !important, #19519a);
+  @include btn-color($block-text-color !important, #7d261c);
 }
 
 .btn-gradescope {
-  @include btn-color($block-text-color !important, #228B22);
+  @include btn-color($block-text-color !important, #217878);
 }
 
 .btn-textbook {
@@ -470,11 +470,11 @@ th, td {
 }
 
 .btn-extensions {
-  @include btn-color($block-text-color !important, #6550e9);
+  @include btn-color($block-text-color !important, #483f87);
 }
 
 .btn-currweek {
-  @include btn-color($block-text-color !important, #3f379d);
+  @include btn-color($block-text-color !important, #800a49);
 }
 
 .btn-officehours {

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus
+title: 📜 Syllabus
 nav_order: 2
 description: >-
     Data Engineering

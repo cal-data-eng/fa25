@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: 🔎 Resources
 nav_order: 6
 description: Resources and past exams to aid you this semester.
 markdown: kramdown

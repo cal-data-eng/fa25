@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignment Tips
+title: 📚 Assignment Tips
 permalink: /assignment-tips/
 nav_exclude: false
 nav_order: 5

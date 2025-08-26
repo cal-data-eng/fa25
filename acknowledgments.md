@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acknowledgments
+title: 🤝 Acknowledgments
 nav_order: 10
 description: >-
     Data Engineering
