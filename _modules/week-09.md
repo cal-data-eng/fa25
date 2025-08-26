@@ -17,4 +17,4 @@ Thu 10/23
 
 Fri 10/24
 : {% proj_rel 3 %} 
-  : Due Mon 11/5, 5pm
+  : Due Wed 11/5, 5pm

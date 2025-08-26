@@ -8,5 +8,5 @@ All Week
 : Finals Week
 
 Tu 12/16
-: **Final**{: .label .label-exam } Midterm Exam (8-11am) 
+: **Final**{: .label .label-exam } Final Exam (8-11am) 
 

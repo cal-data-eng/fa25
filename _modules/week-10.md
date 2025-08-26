@@ -11,3 +11,8 @@ Tue 10/28
 Thu 10/30
 : {% lec 17 tba %}
 : {% disc 8 %} 
+
+
+Fri 10/31
+: {% hw_rel 4 %} Homework 4
+  : Due Wed 11/12, 5pm

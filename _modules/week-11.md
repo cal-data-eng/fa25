@@ -4,12 +4,12 @@ date: 2025-11-3
 Status: Active
 ---
 
-Mon 11/3
-: {% hw_rel 4 %} Homework 4
-  : Due Wed 11/12, 5pm
 
 Tue 11/4
 : {% lec 18 tba %}
+
+Wed 11/5
+: {% proj_due 3} Due 5pm
 
 
 Thu 11/6
