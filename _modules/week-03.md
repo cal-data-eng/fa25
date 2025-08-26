@@ -9,7 +9,7 @@ Tue 9/9
   : [Course Notes](https://data101.org/notes/1-SQL/DML.html)
 
 Wed 9/10
-: {% proj_due 1 %} Due, 5pm
+: {% proj_due 0 %} Due, 5pm
 
 Thu 9/11
 : {% lec 5 DML-DDL %}

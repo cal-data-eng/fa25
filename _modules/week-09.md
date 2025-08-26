@@ -12,10 +12,9 @@ Wed 10/22
 
 Thu 10/23
 : {% lec 15 tba %}
-  <!-- : [Course Notes](https://data101.org/notes/4-data_modeling/ER_diagrams.html) -->
 : {% disc 7 %} 
 
 
 Fri 10/24
 : {% proj_rel 3 %} 
-  : Due Mon 11/10, 5pm
+  : Due Mon 11/5, 5pm

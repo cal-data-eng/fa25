@@ -4,15 +4,15 @@ date: 2025-11-10
 Status: Active
 ---
 
-Mon 11/3
+Mon 11/10
 : {% proj_due 3 %} Due, 5pm
 
-Tue 11/4
+Tue 11/12
 : {% lec 20 tba %}
 
-Wed 11/5
+Wed 11/13
 : {% hw_due 4 %} Due, 5pm
 
-Thu 11/6
-: {% disc 9 %} 
+Thu 11/14
 : {% lec 21 tba %}
+: {% disc 10 %} 

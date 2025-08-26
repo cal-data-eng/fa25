@@ -13,8 +13,8 @@ Tue 11/4
 
 
 Thu 11/6
-: {% disc 8 %} 
 : {% lec 19 tba %}
+: {% disc 9 %} 
 
 Fri 11/7
 : {% proj_rel 4 %} 
