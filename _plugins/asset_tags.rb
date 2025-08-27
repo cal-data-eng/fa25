@@ -56,7 +56,11 @@ module Jekyll
 
       return "**Lecture #{@number}**{: .label .label-lec } #{lecture_title}" if lecture_date > current_date
 
-      "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](#{lecture_url})"
+      # Current approach: relative URL (cleaner, automatically handles baseurl)
+      "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](lectures/#{@slug})"
+      
+      # Original broken approach: double path issue
+      # "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](lectures/#{lecture_url})"
     end
   end
 
