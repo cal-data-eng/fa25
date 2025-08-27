@@ -56,7 +56,7 @@ module Jekyll
 
       return "**Lecture #{@number}**{: .label .label-lec } #{lecture_title}" if lecture_date > current_date
 
-      "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](lectures/#{lecture_url})"
+      "**Lecture #{@number}**{: .label .label-lec } [#{lecture_title}](#{lecture_url})"
     end
   end
 
