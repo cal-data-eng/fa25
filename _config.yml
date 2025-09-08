@@ -6,7 +6,7 @@ color_scheme: light
 logo: data-101-logo.png
 baseurl: '/fa25' 
 url: 'https://data101.org' 
-current_week: 2
+current_week: 3
 
 # Course variables
 course: DATA 101
