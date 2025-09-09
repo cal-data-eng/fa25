@@ -5,7 +5,8 @@ Status: Active
 ---
 
 Tue 9/9
-: {% lec 4 CTEs-views-subqueries %}
+: {% lec 4a CTEs-views-subqueries %}
+: {% lec 4b DML-DDL %}
 
 Wed 9/10
 : {% proj_due 0 %} Due, 5pm
