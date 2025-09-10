@@ -13,7 +13,7 @@ Wed 9/10
 
 Thu 9/11
 : {% lec 5 DML-DDL %}
-: {% disc 2 %} Relational Algebra, Subqueries, CTEs, Joins
+: {% disc 2 %} [Relational Algebra, Subqueries, CTEs, Joins](https://drive.google.com/file/d/1oSJTuQJRH4SyDgGvZklZdOdgcgh86ekM/view?usp=sharing)
 
 Fri 9/12
 : {% proj_rel 1 %} SQL
