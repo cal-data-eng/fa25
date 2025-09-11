@@ -12,7 +12,8 @@ Wed 9/10
 : {% proj_due 0 %} Due, 5pm
 
 Thu 9/11
-: {% lec 5 DML-DDL %}
+: {% lec 5a DML-DDL %}
+: {% lec 5b memory-model %}
 : {% disc 2 %} Relational Algebra, Subqueries, CTEs, Joins
 
 Fri 9/12
