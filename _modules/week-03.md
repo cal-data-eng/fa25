@@ -14,7 +14,7 @@ Wed 9/10
 Thu 9/11
 : {% lec 5a DML-DDL %}
 : {% lec 5b memory-model %}
-: {% disc 2 %} [Relational Algebra, Subqueries, CTEs, Joins](https://drive.google.com/file/d/1oSJTuQJRH4SyDgGvZklZdOdgcgh86ekM/view?usp=sharing)
+: {% disc 2 %} [Relational Algebra, Subqueries, CTEs](https://drive.google.com/file/d/1oSJTuQJRH4SyDgGvZklZdOdgcgh86ekM/view?usp=sharing)
   : [Solution](https://drive.google.com/file/d/15GlMnSeOZffyddWFyVcYmnsvlmJA7520/view?usp=sharing)
 
 Fri 9/12
