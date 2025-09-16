@@ -15,7 +15,7 @@ Wed 9/17
 Thu 9/18
 : {% lec 7 optimizing-2 %}
 : {% disc 3 %} [DML/DDL, Cascade, Bits, Query Performance](https://drive.google.com/file/d/16DRiZhD0l3PaCCD-T2Oz0WqiSKUi5UiZ/view?usp=sharing)
-  : Code
+  : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc03%2Fdisc03.ipynb&branch=main)
 
 Fri 9/19
 : {% hw_rel 2 %} Homework 2
