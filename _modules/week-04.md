@@ -6,6 +6,7 @@ Status: Active
 
 Tue 9/16
 : {% lec 6 optimizing-1 %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/indexes.html)
 
 Wed 9/17
 : {% hw_due 1 %} Due, 5pm
