@@ -5,7 +5,8 @@ Status: Active
 ---
 
 Tue 9/16
-: {% lec 6 optimizing-1 %}
+: {% lec 6a memory-model %}
+: {% lec 6b optimizing-1 %}
   : [Course Notes](https://data101.org/notes/3-query_perf/indexes.html)
 
 Wed 9/17
