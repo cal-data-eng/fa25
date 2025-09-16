@@ -6,7 +6,9 @@ Status: Active
 
 Tue 9/9
 : {% lec 4a CTEs-views-subqueries %}
+  : [Course Notes](https://data101.org/notes/1-SQL/CTEs.html)
 : {% lec 4b DML-DDL %}
+  : [Course Notes](https://data101.org/notes/1-SQL/DML.html)
 
 Wed 9/10
 : {% proj_due 0 %} Due, 5pm
@@ -14,6 +16,7 @@ Wed 9/10
 Thu 9/11
 : {% lec 5a DML-DDL %}
 : {% lec 5b memory-model %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/indexes.html)
 : {% disc 2 %} [Relational Algebra, Subqueries, CTEs](https://drive.google.com/file/d/1oSJTuQJRH4SyDgGvZklZdOdgcgh86ekM/view?usp=sharing)
   : [Solution](https://drive.google.com/file/d/1zymKXRTuru09Eei7czcAOpmxCfPFC5pJ/view?usp=sharing)
 
