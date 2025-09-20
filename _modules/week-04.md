@@ -19,5 +19,5 @@ Thu 9/18
   : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc03%2Fdisc03.ipynb&branch=main), [Solution](https://drive.google.com/file/d/1Pr-YWh5Rau6cxuROSBl_of2DzjF4rkC7/view?usp=sharing)
 
 Fri 9/19
-: {% hw_rel 2 %} Homework 2
+: {% hw_rel 2 %} [Homework 2](https://www.gradescope.com/courses/1082802/assignments/6561702)
   : Due Wed 10/1, 5pm
