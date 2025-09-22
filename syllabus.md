@@ -167,7 +167,7 @@ You are encouraged to discuss practice problems and lecture content with your fe
 
 **_Each assignment will ask you to list any collobrators, outside sources, or other help received. You are expected to fill this hout honestly._**
 
-We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty){: target="\_blank"} on academic honesty, so be sure you are familiar with it.
+We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-misconduct/){: target="\_blank"} on academic honesty, so be sure you are familiar with it.
 We will be running advanced plagiarism detection programs on all assignments.
 Posting solutions is also prohibited. If you find a solution online, please email a link to that solution to the instructor.
 
