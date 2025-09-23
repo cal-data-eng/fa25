@@ -5,7 +5,7 @@ Status: Active
 ---
 
 Tue 9/23
-: {% lec 8 optimizing-3 %}
+: {% lec 8 optimizing-2 %}
 
 Wed 9/24
 : {% proj_due 1 %} Due, 5pm
