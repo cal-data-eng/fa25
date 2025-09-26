@@ -14,7 +14,7 @@ Thu 9/25
 : {% lec 9a data-modeling-1 %}
 : {% lec 9b data-prep-1 %}
 : {% disc 4 %} [Query Performance](https://drive.google.com/file/d/10s7KVZ19hF37bapLFy4Brdxzcph4si-D/view?usp=sharing)
-  : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main)
+  : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main), [Solution](https://drive.google.com/file/d/1kW5dRb_cQm6xyk9jrgEvhIR1ZYRVD4sI/view?usp=sharing)
 
 Fri 9/26
 : {% proj_rel 2 %} Query Performance
