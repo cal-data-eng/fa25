@@ -42,13 +42,18 @@ See [**Assignment Tips**](../assignment-tips).
 
 | **Semester** | Midterm | Final | Reference Packet | Notes |
 |:-------------|:-------:|:-----:|:---------------:|:-----:|
+| Spring 2025 | [Exam][sp25_midterm_blank] ([Solutions][sp25_midterm_solutions])| | [Midterm][sp25_midterm_reference_packet] | |
 | Fall 2024 | [Exam](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-midterm.pdf) ([Solutions](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-midterm-solutions.pdf))| [Exam](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-final.pdf) ([Solutions](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-final-solutions.pdf)) | [Midterm](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-midterm-reference-sheet.pdf), [Final](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa24/data101-fa24-final-reference-sheet.pdf) | Common Errors: [Midterm][fa24_midterm_common_errors], [Final][fa24_final_common_errors] |
 | Fall 2023 | | [Exam](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa23/data101-fa23-final.pdf) ([Solutions](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa23/data101-fa23-final-solutions.pdf)) | [Final](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa23/data101-fa23-final-reference-sheet.pdf) | [Common Errors][fa23_final_common_errors] |
 | Fall 2022 | | [Exam](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa22/data101-fa22-final.pdf) ([Solutions](https://docs.google.com/viewer?url=https://github.com/cal-data-eng/exams/raw/main/fa22/data101-fa22-final-solutions.pdf)) | | Shortened exam due to the UAW 2865 ASE strike |
 
+
 [fa23_final_common_errors]: https://docs.google.com/document/d/15pAdiYqw096fvP5_LGbZP1vrvU6zBWrfzdw7kkLHQA0/preview
 [fa24_midterm_common_errors]: https://docs.google.com/document/d/1fFtK6svvdNd4AhHJcUN7fft_1Maac0GmY4jeplKiSrg/preview
 [fa24_final_common_errors]: https://docs.google.com/document/d/13sYd0Kr8HxWNIXuxB2rlrZkcM390ZLhhRh4MjayB41A/preview
+[sp25_midterm_blank]: {{ site.baseurl }}/assets/exams/sp25_midterm.pdf
+[sp25_midterm_solutions]: {{ site.baseurl }}/assets/exams/sp25_midterm_sol.pdf
+[sp25_midterm_reference_packet]: {{ site.baseurl }}/assets/exams/sp25_midterm_reference_packet.pdf
 
 Note: Reference sheets/packets will be provided with the paper exam; you should not need to print your own copy. Please post to Ed if you find typos. Thanks!
 

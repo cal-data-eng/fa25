@@ -122,7 +122,7 @@ Letter grades for the course will be based on your overall score in the class. H
 | **Component** | **Weight<br/>(default)** | **Details** |
 | --------- |:---:|--- |
 | Projects | 40% |  (9% each typically) No drops; Project 0 worth 4%. see [Late Policy](#late-policy) |
-| Homework Assignments | 20% |  (4% each) No drops; see [Late Policy](#late-policy) |
+| Homework Assignments | 20% |  (3.6% each) 1 drop drops; see [Late Policy](#late-policy) |
 | Midterm | 15% |      |
 | Final Exam | 25% | Final is cumulative. |
 
