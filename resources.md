@@ -53,7 +53,7 @@ See [**Assignment Tips**](../assignment-tips).
 [fa24_final_common_errors]: https://docs.google.com/document/d/13sYd0Kr8HxWNIXuxB2rlrZkcM390ZLhhRh4MjayB41A/preview
 [sp25_midterm_blank]: {{ site.baseurl }}/assets/exams/sp25_midterm.pdf
 [sp25_midterm_solutions]: {{ site.baseurl }}/assets/exams/sp25_midterm_sol.pdf
-[sp25_midterm_reference_packet]: {{ site.baseurl }}/assets/exams/sp25/sp25_midterm_reference_packet.pdf
+[sp25_midterm_reference_packet]: {{ site.baseurl }}/assets/exams/sp25_midterm_reference_packet.pdf
 
 Note: Reference sheets/packets will be provided with the paper exam; you should not need to print your own copy. Please post to Ed if you find typos. Thanks!
 
