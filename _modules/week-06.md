@@ -12,7 +12,7 @@ Wed 10/1
 
 Thu 10/2
 : {% lec 11 data-prep-2 %}
-: {% disc 5 %} Data Models, Data Preparation
+: {% disc 5 %} [Data Models, Data Preparation](https://drive.google.com/file/d/1KG9gAi_AnHxngUZ6ieNAU6v7ern8efOE/view?usp=sharing)
 
 Fri 10/3
 : {% hw_rel 3 %} Homework 3
