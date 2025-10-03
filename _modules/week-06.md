@@ -12,7 +12,7 @@ Wed 10/1
 
 Thu 10/2
 : {% lec 11 data-prep-2 %}
-: {% disc 5 %} [Data Models, Data Preparation]([https://drive.google.com/file/d/1KG9gAi_AnHxngUZ6ieNAU6v7ern8efOE/view?usp=sharing](https://drive.google.com/file/d/1rtd8mCmZ_XxDhO8s-HrZktUvkrmIxIIn/view?usp=sharing))
+: {% disc 5 %} [Data Models, Data Preparation]([https://drive.google.com/file/d/1KG9gAi_AnHxngUZ6ieNAU6v7ern8efOE/view?usp=sharing](https://drive.google.com/file/d/1rtd8mCmZ_XxDhO8s-HrZktUvkrmIxIIn/view?usp=sharing)
   : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main)
 
 Fri 10/3
