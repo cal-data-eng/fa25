@@ -5,14 +5,13 @@ Status: Active
 ---
 
 Tue 10/7
-: {% lec 11 tba %}
-  <!-- : [Course Notes](https://data101.org/notes/5-data_prep/structural.html)  -->
+: {% lec 11a data-prep-2 %}
+: {% lec 11b data-prep-3 %}
 
 Wed 10/8
 : {% proj_due 2 %} Due, 5pm
 
 Thu 10/9
 : {% lec 12 tba %}
-  <!-- : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html)  -->
 : {% disc 6 %} Window Functions, Data Granularity
 
