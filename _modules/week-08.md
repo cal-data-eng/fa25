@@ -5,7 +5,9 @@ Status: Active
 ---
 
 Tue 10/14
-: {% lec 14 data-prep-4 %}
+: {% lec 14a data-prep-4 %}
+: {% lec 14b data-modeling-2 %}
+
   <!-- : [Course Notes](https://data101.org/notes/5-data_prep/structural.html)  -->
 
 Thu 10/16
