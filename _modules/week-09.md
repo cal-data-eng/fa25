@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Tue 10/21
-: {% lec 14 tba %}
+: {% lec 15 data-modeling-2 %}
 
 Wed 10/22
 : {% hw_due 3 %} Due, 5pm
 
 Thu 10/23
-: {% lec 15 tba %}
+: {% lec 16 tba %}
 : {% disc 7 %} 
 
 
