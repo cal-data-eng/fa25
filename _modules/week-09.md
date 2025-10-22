@@ -13,6 +13,7 @@ Wed 10/22
 Thu 10/23
 : {% lec 16 tba %}
 : {% disc 7 %} [Entity Resolution, ER Diagram, Normalization, Hampel X84](https://drive.google.com/file/d/1afXj3glgEEG7F0RINpmQveO_yHnxtCDJ/view?usp=sharing)
+  : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main) 
 
 
 
