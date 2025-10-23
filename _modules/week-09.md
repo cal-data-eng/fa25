@@ -11,7 +11,8 @@ Wed 10/22
 : {% hw_due 3 %} Due, 5pm
 
 Thu 10/23
-: {% lec 16 tba %}
+: {% lec 16a semistructured-data %}
+: {% lec 16b mongoDB-1 %}
 : {% disc 7 %} 
 
 
