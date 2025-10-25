@@ -250,6 +250,7 @@ exclude:
 course:
   edstem: https://edstem.org/us/courses/81851/discussion
   datahub: https://data101.datahub.berkeley.edu/
+  office_hours: https://oh.data101.org/
   # videos: https://bcourses.berkeley.edu/courses/1542742/external_tools/90481
   gradescope: https://www.gradescope.com/courses/1082802/assignments
   additional_extensions: "https://docs.google.com/forms/d/e/1FAIpQLSeWYakKx_K7wFvlpzDAEeYxqFrWWnNwh4L1cI-oxsYoEMoUyw/viewform?usp=dialog" # Google Form URL

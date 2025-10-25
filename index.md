@@ -17,6 +17,7 @@ nav_order: 1
 [Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1547305/external_tools/90481){:target="\_blank" .btn .btn-bcourses}
 [Additional Extensions]({{site.course.additional_extensions}}){:target="\_blank" .btn .btn-extensions .mr-1 }
+[Office Hours Queue]({{site.course.office_hours}}){: .btn .btn-officehours}
 [Jump to Current Week](https://data101.org/fa25/#week-1){: .btn .btn-currweek}
 
 <div class="role flex">
