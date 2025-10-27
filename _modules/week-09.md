@@ -18,4 +18,4 @@ Thu 10/23
 
 Fri 10/24
 : {% proj_rel 3 %} [Data Transformation](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fproj%2Fproj3%2Fproj3.ipynb&branch=main)
-  : Due Wed 11/5, 5pm
+  : Due Fri 11/7, 5pm
