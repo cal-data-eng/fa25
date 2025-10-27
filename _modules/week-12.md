@@ -5,12 +5,12 @@ Status: Active
 ---
 
 
-Tue 11/12
+Tue 11/11
 : {% lec 20 tba %}
 
-Wed 11/13
+Wed 11/12
 : {% hw_due 4 %} Due 5pm
 
-Thu 11/14
+Thu 11/13
 : {% lec 21 tba %}
 : {% disc 10 %} 
