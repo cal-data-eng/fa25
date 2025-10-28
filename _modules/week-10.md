@@ -5,11 +5,12 @@ Status: Active
 ---
 
 Tue 10/28
-: {% lec 16 tba %}
+: {% lec 17a semistructured-data %}
+: {% lec 17b mongoDB-1 %}
 
 
 Thu 10/30
-: {% lec 17 tba %}
+: {% lec 18 mongoDB-2 %}
 : {% disc 8 %} 
 
 
