@@ -11,7 +11,7 @@ Tue 10/28
 
 Thu 10/30
 : {% lec 18 mongoDB-2 %}
-: {% disc 8 %} 
+: {% disc 8 %} [Semi-Structured Data, MongoDB](https://drive.google.com/file/d/1GeEojiE0mhbk6HsM8oilYkrx3Dy_4vdU/view?usp=sharing)
 
 
 Fri 10/31
