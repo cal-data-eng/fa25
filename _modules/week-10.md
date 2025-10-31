@@ -16,5 +16,5 @@ Thu 10/30
 
 
 Fri 10/31
-: {% hw_rel 4 %} Homework 4
+: {% hw_rel 4 %} [Homework 4](https://www.gradescope.com/courses/1082802/assignments/6561710)
   : Due Wed 11/12, 5pm
