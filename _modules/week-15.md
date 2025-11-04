@@ -1,6 +1,6 @@
 ---
 title: Week 15
-date: 2025-12-1
+date: 2025-12-01
 Status: Active
 ---
 
