@@ -6,7 +6,7 @@ Status: Active
 
 
 Tue 11/11
-: {% lec 21 dist-ops %}
+: {% lec 21 data-ops %}
 
 Wed 11/12
 : {% hw_due 4 %} Due 5pm
