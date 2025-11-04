@@ -6,14 +6,16 @@ Status: Active
 
 
 Tue 11/4
-: {% lec 18 tba %}
+: {% lec 19a sampling %}
+: {% lec 19b mapReduce %}
+
 
 Wed 11/5
 : {% proj_due 3 %} Due 5pm
 
 
 Thu 11/6
-: {% lec 19 tba %}
+: {% lec 20 parallel-dist-computing %}
 : {% disc 9 %} 
 
 Fri 11/7
