@@ -16,7 +16,7 @@ Wed 11/5
 
 Thu 11/6
 : {% lec 20 parallel-dist-computing %}
-: {% disc 9 %} 
+: {% disc 9 %} [MapReduce, Sampling](https://drive.google.com/file/d/1JhG6Aiv6FN2U61KB1_Bc5gw016finyMR/view?usp=sharing)
 
 Fri 11/7
 : {% proj_rel 4 %} 
