@@ -1,6 +1,6 @@
 ---
 title: Week 11
-date: "2025-11-03"
+date: 2025-11-03
 Status: Active
 ---
 
