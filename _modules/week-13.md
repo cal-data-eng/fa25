@@ -17,4 +17,4 @@ Thu 11/20
 
 Fri 11/21
 : {% hw_rel 5 %} Homework 5
-    : Due Weds 12/3, 5pm 
+    : Due Weds 12/3, 5pm
