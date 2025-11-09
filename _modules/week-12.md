@@ -13,4 +13,4 @@ Wed 11/12
 
 Thu 11/13
 : {% lec 22 olap %}
-: {% disc 10 %} 
+: {% disc 10 %}
