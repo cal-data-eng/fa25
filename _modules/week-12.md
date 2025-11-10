@@ -4,6 +4,9 @@ date: 2025-11-10
 Status: Active
 ---
 
+Mon 11/10
+: {% proj_rel 4 %} [Project 4] (https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa25-materials&urlpath=tree%2Ffa25-materials%2Fproj%2Fproj4%2Fproj4.ipynb&branch=main)
+  : Due Sat 11/22 5pm
 
 Tue 11/11
 : {% lec 21 data-ops %}

@@ -17,5 +17,3 @@ Thu 11/6
 
 Fri 11/7
 : {% proj_due 3 %} Due 5pm
-: {% proj_rel 4 %} 
-  : Due Wed 11/19 5pm
