@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Tue 11/18
-: {% lec 23 transactions %}
+: {% lec 23 olap %}
 
 Weds 11/19
 : {% proj_due 4 %} Due 5pm
 
 Thu 11/20
-: {% lec 24 spreadsheets %}
+: {% lec 24 transactions %}
 : {% disc 11 %} 
 
 

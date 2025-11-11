@@ -5,7 +5,7 @@ Status: Active
 ---
 
 Tue 12/2
-: {% lec 25 tba %}
+: {% lec 25 graph-db %}
 
 Wed 12/3
 : {% hw_due 5 %} Due 5pm

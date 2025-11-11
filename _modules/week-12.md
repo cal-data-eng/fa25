@@ -9,11 +9,11 @@ Mon 11/10
   : Due Sat 11/22 5pm
 
 Tue 11/11
-: {% lec 21 data-ops %}
+: **Lecture**{: .label} Holiday: No Lecture
 
 Wed 11/12
 : {% hw_due 4 %} Due 5pm
 
 Thu 11/13
-: {% lec 22 olap %}
+: {% lec 21 data-ops %}
 : {% disc 10 %}
