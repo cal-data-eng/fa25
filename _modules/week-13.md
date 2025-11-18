@@ -5,7 +5,8 @@ Status: Active
 ---
 
 Tue 11/18
-: {% lec 22 transactions %}
+: {% lec 22a data-ops %}
+: {% lec 22b transactions %}
 
 Weds 11/19
 : {% proj_due 4 %} Due 5pm
