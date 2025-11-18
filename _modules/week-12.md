@@ -17,3 +17,4 @@ Wed 11/12
 Thu 11/13
 : {% lec 21 data-ops %}
 : {% disc 10 %} [Parallel Processing, Data Ops](https://drive.google.com/file/d/1_BMhtyVaa0WHMgWoMFdsVSiEffz4n4bV/view?usp=drive_link)
+  : [Solution](https://drive.google.com/file/d/1J3PrZQnbOEOg3eSMgdXrQ70H0Bz_-G3c/view?usp=sharing)
