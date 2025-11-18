@@ -5,16 +5,17 @@ Status: Active
 ---
 
 Tue 11/18
-: {% lec 23 olap %}
+: {% lec 22 transactions %}
 
 Weds 11/19
 : {% proj_due 4 %} Due 5pm
 
 Thu 11/20
-: {% lec 24 transactions %}
+: {% lec 23 olap %}
 : {% disc 11 %} 
 
 
 Fri 11/21
+: {% lec 24 spreadsheets %} (Special Makeup Lecture)
 : {% hw_rel 5 %} Homework 5
     : Due Weds 12/3, 5pm

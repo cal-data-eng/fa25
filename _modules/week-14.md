@@ -5,7 +5,7 @@ Status: Active
 ---
 
 Tue 11/25
-: {% lec 24 spreadsheets %}
+: **Lecture**{: .label} No Lecture (Made up 11/21)
 
 Thu 11/27
 : **Lecture**{: .label} Holiday: No Lecture
