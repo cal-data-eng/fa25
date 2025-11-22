@@ -19,5 +19,5 @@ Thu 11/20
 
 Fri 11/21
 : {% lec 24 spreadsheets %} (Special Makeup Lecture)
-: {% hw_rel 5 %} Homework 5
+: {% hw_rel 5 %} [Homework 5](https://www.gradescope.com/courses/1082802/assignments/6561713)
     : Due Weds 12/3, 5pm
