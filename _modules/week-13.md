@@ -14,9 +14,10 @@ Weds 11/19
 Thu 11/20
 : {% lec 23 olap %}
 : {% disc 11 %} [Transactions](https://drive.google.com/file/d/1IscJ0TzFyQsoX__Huci--j0SXPmS9kq5/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1gnGgkVMiwl_6cd7nXOEPIeKYYMdhnUU2/view?usp=sharing)
 
 
 Fri 11/21
 : {% lec 24 spreadsheets %} (Special Makeup Lecture)
-: {% hw_rel 5 %} Homework 5
+: {% hw_rel 5 %} [Homework 5](https://www.gradescope.com/courses/1082802/assignments/6561713)
     : Due Weds 12/3, 5pm
