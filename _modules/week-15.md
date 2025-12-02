@@ -5,7 +5,9 @@ Status: Active
 ---
 
 Tue 12/2
-: {% lec 25 graph-db %}
+: {% lec 25a graph-db %}
+: {% lec 25b cloud-computing %}
+
 
 Wed 12/3
 : {% hw_due 5 %} Due 5pm
