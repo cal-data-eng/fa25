@@ -14,4 +14,4 @@ Wed 12/3
 
 Thu 12/4
 : {% lec 26 tba %}
-: {% disc 12 %} 
+: {% disc 12 %} [OLAP, Spreadsheets, GraphDB](https://drive.google.com/file/d/10ckAFf2JQFHIf5taepltUZxNHEe-kIIg/view?usp=sharing)
