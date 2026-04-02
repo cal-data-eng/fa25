@@ -521,3 +521,14 @@ div.highlighter-rouge div.highlight {
 #prev-week:empty + #next-week {
   margin-left: auto; /* Ensure "Next Week" stays on the right if "Previous Week" is not visible */
 }
+
+.warning a {
+  color: $warning-link-color;
+  text-decoration: underline;
+}
+
+/* Optional: Add a hover state for better UX */
+.warning a:hover {
+  color: $warning-link-hover-color;
+  text-decoration: none;
+}
