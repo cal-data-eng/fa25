@@ -5,6 +5,9 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
+
 # Staff
 Say HELLO to your Fall 2025 DATA 101 Staff! Hover over some of our icons for a fun surprise :0
 {: .no_toc .text-delta }

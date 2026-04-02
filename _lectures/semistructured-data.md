@@ -6,3 +6,6 @@ date: 2025-10-20
 files:
     slides: https://docs.google.com/presentation/d/1ZO-gyIaxibl_oMW5HKU8xv_95OuU4pZXT3CjChK6Hd4/edit?usp=sharing
 ---
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
